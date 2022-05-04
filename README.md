@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rushikesh Satpute
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps and Version control tools
-- 📫 How to reach me on Gmail: rushisatpute05@gmail.com
+- 👋 Hi, I’m Rushikesh Satpute!
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently working as Systems Engineer at Tata Consultancy Services Ltd.
+- 📫 How to reach me on Gmail: rushisatpute422@gmail.com
 
 <!---
 Rushikesh422/Rushikesh422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
