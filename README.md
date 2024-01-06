@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rushikesh Satpute!
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently working as Systems Engineer at Tata Consultancy Services Ltd.
+- 👀 I’m interested in Salesforce Development
+- 🌱 I’m currently working as Technical Support Engineer @ Salesforce India Pvt Ltd.
 - 📫 How to reach me on Gmail: rushisatpute422@gmail.com
 
 <!---
